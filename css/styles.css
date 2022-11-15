@@ -1,0 +1,31 @@
+/* **********************************TAB SELECTOR *************************** */
+body {
+  background-color: #f1f1f1;
+}
+
+/* **********************************TAB SELECTOR *************************** */
+h1 {
+  color: blueviolet;
+}
+
+h2 {
+  color: #8d72e1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(25, 234, 14);
+  border-width: 5px;
+  width: 10%;
+}
+
+/* **********************************CLASS SELECTOR *************************** */
+.aboutbook {
+  color: peru;
+}
+
+.circular {
+  border-radius: 200%;
+
+}
